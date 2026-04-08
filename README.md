@@ -31,7 +31,7 @@ It stops only on unresolvable blocking errors.
 ### Option 1 — Clone directly into your Claude skills directory
 
 ```bash
-git clone https://github.com/Ymx1ZQ/claudecode-devplan-executor \
+git clone https://github.com/Ymx1ZQ/claude-devplan-executor \
   ~/.claude/skills/devplan-executor
 ```
 
